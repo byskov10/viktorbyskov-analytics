@@ -1,0 +1,4 @@
+event_date,event_timestamp,event_name,event_bundle_sequence_id,user_pseudo_id,user_first_touch_timestamp,stream_id,platform,event_params_page_title,event_params_ga_session_id,event_params_page_location,event_params_session_engaged,event_params_engagement_time_msec,event_params_ga_session_number,event_params_engaged_session_event
+20230916,1694894183334628,first_visit,1304085220,684707459.1694894183,1694894183334628,6092560544,WEB,Viktor Byskov - Viktor Byskov,1694894183,https://viktorbyskov.dk/,,,1,
+20230916,1694894183334628,session_start,1304085220,684707459.1694894183,1694894183334628,6092560544,WEB,Viktor Byskov - Viktor Byskov,1694894183,https://viktorbyskov.dk/,,,1,
+20230916,1694894183334628,page_view,1304085220,684707459.1694894183,1694894183334628,6092560544,WEB,Viktor Byskov - Viktor Byskov,1694894183,https://viktorbyskov.dk/,0,,1,
