@@ -1,0 +1,8 @@
+event_date,event_timestamp,event_name,event_bundle_sequence_id,user_pseudo_id,user_first_touch_timestamp,stream_id,platform,event_params_page_title,event_params_ga_session_id,event_params_page_location,event_params_session_engaged,event_params_engagement_time_msec,event_params_ga_session_number,event_params_engaged_session_event
+20231103,1699001862864128,sec20_timer,-1300087552,1672137256.1694417464,1694417464201780,6092560544,WEB,Viktor Byskov - Viktor Byskov,1699001842,,0,2622,9,1
+20231103,1699001842340184,session_start,-1320611496,1672137256.1694417464,1694417464201780,6092560544,WEB,Viktor Byskov - Viktor Byskov,,,,,,1
+20231103,1699001842340184,page_view,-1320611496,1672137256.1694417464,1694417464201780,6092560544,WEB,Viktor Byskov - Viktor Byskov,,https://viktorbyskov.dk/,0,,9,1
+20231103,1699001849059057,scroll_10,-1313892623,1672137256.1694417464,1694417464201780,6092560544,WEB,,,,,,,1
+20231103,1699001885499940,scroll_50,-1277451740,1672137256.1694417464,1694417464201780,6092560544,WEB,Viktor Byskov - Viktor Byskov,1699001842,https://viktorbyskov.dk/,1,9031,9,1
+20231103,1699016639422450,session_start,591568882,1672137256.1694417464,1694417464201780,6092560544,WEB,Viktor Byskov - Viktor Byskov,1699016639,https://viktorbyskov.dk/,0,,10,
+20231103,1699016639422450,user_engagement,591568882,1672137256.1694417464,1694417464201780,6092560544,WEB,Viktor Byskov - Viktor Byskov,1699016639,https://viktorbyskov.dk/,0,,10,
